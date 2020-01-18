@@ -1,4 +1,5 @@
 # Hello!
 
 This is my *first* repo.
-![](./cat.gif)
+Yoshino is coming!
+![](./yoshino.gif)
