@@ -1,4 +1,4 @@
 # Hello!
 
 This is my *first* repo.
-![](./Desktop/cat.gif)
+![](./Henrys-MacBook-Air:Desktop/cat.gif)
