@@ -1,7 +1,7 @@
 # Hello!
 
 This is my *first* repo.
-![](./cat.gif)
-AWESOME CAT!
-
+AWESOME CAT:
+![awesome cat](./cat.gif)
+>>>>>>>>add-cat-caption
 
